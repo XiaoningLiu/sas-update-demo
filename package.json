@@ -1,0 +1,15 @@
+{
+  "name": "sas-update-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/storage-blob": "^10.1.0-preview",
+    "azure-storage": "^2.10.2"
+  }
+}
